@@ -8,7 +8,8 @@ intro
 
 ### More Information
 
-cv
+[image classification tricks](./_posts/2020-1-27-tricks.md)
+
 
 ### Contact me
 
