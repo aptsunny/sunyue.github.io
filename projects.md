@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technology stack
-permalink: /Technology/
+title: Projects
+permalink: /Projects/
 ---
 
 # Outline
