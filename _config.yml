@@ -9,7 +9,7 @@ name: Yue Sun
 description: Master of Engineering in Tongji University, Focus on Multi-Target Multi-Camera tracking
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/aa.jpg
+avatar: https://raw.githubusercontent.com/aptsunny/AutoGluonWebdata/master/images/aa.jpg
 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
