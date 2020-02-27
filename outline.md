@@ -1,6 +1,6 @@
 # Outline
 1. [分类任务技巧](./train_manager/Bag_of_tricks.md)
-2. [流畅的Python](./fluent_python/Fluent_python.md)
+2. [流畅的Python](./_posts/fluent_python/Fluent_python.md)
 3. [并行化编程](./parallel_programming/Parallel_Framework.md)
 4. [设计模式](./design_pattern/Design_pattern.md)
 5. [编译原理](./compilers_principles/Compiler.md)
