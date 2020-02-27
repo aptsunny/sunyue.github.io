@@ -1,3 +1,9 @@
+---
+layout: page
+title: Technology stack
+permalink: /Technology/
+---
+
 # Outline
 1. [分类任务技巧](./train_manager/Bag_of_tricks.md)
 2. [流畅的Python](./_posts/fluent_python/Fluent_python.md)
