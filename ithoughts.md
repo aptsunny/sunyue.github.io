@@ -7,9 +7,9 @@ permalink: /ithoughts/
 ### Source Release 
 I researched and sorted out the knowledge network and internship experience in the postgraduate study stage. In the near future, I have continuously updated some high-quality content as follow.
 
-[![YpfVIK.th.jpg](https://s1.ax1x.com/2020/05/04/YpfVIK.th.jpg)](https://imgchr.com/i/YpfVIK)
-
 ![info](https://s1.ax1x.com/2020/05/04/YpfVIK.jpg)
+![info](https://s1.ax1x.com/2020/05/04/Ypffy9.jpg)
+![info](https://s1.ax1x.com/2020/05/04/YpfbWD.jpg)
 
 ### More Information
 [News](./_posts/2020-2-27-News.md)
