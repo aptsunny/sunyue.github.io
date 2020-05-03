@@ -6,9 +6,10 @@ permalink: /ithoughts/
 
 ### Source Release 
 I researched and sorted out the knowledge network and internship experience in the postgraduate study stage. In the near future, I have continuously updated some high-quality content as follow.
-![info](https://raw.githubusercontent.com/aptsunny/AutoGluonWebdata/master/images/ithought1.jpg)
-![info](https://raw.githubusercontent.com/aptsunny/AutoGluonWebdata/master/images/ithought2.jpg)
-![info](https://raw.githubusercontent.com/aptsunny/AutoGluonWebdata/master/images/margin.jpg)
+
+[![YpfVIK.th.jpg](https://s1.ax1x.com/2020/05/04/YpfVIK.th.jpg)](https://imgchr.com/i/YpfVIK)
+
+![info](https://s1.ax1x.com/2020/05/04/YpfVIK.jpg)
 
 ### More Information
 [News](./_posts/2020-2-27-News.md)
