@@ -15,10 +15,14 @@
 # Search 
 - 貌似无效
 
-# FAQ
-- 可以改成 About
+# Tags
+- 写文章需要标注
+
+# Details
+- 可以改成 Details
+- "Details" -> "Details"
 
 # Nation - My Reading List
 - 待阅读内容
-- Reading List https://deluxe-soap-a54.notion.site/92218bfd6da746c7a35622ecf0b9b61f?v=9e2b6fa05d144c92b5ed7bf30c187557
-
+- Share Link https://deluxe-soap-a54.notion.site/92218bfd6da746c7a35622ecf0b9b61f?v=9e2b6fa05d144c92b5ed7bf30c187557
+- Reading List https://www.notion.so/92218bfd6da746c7a35622ecf0b9b61f?v=9e2b6fa05d144c92b5ed7bf30c187557
