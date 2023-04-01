@@ -3,6 +3,8 @@
 - Github / linkedin
 - Lil -> Yue
 - Lil'Log -> Yue'Log
+- update 个人部分
+
 
 # Posts
 - 文章索引 Tag 关联
