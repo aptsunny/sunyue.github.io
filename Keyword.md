@@ -21,6 +21,7 @@
 # Details
 - 可以改成 Details
 - "Details" -> "Details"
+- 
 
 # Nation - My Reading List
 - 待阅读内容
